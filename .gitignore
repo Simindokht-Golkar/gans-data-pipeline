@@ -1,0 +1,11 @@
+# secrets
+.env
+
+# Jupyter auto-backups
+.ipynb_checkpoints/
+
+# course material and learning notebooks (not part of the project)
+Gans_project_related_files/
+
+# scratch notebooks
+Untitled*.ipynb
